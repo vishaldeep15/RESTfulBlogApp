@@ -19,3 +19,30 @@ a:active {
 .ui.form textarea {
 	margin-top: 10px;
 }
+
+#delete {
+	display: inline;
+}
+
+.ui.inverted.menu a.item:hover {
+    background: orange;
+    color: #ffffff;
+}
+
+.ui.inverted.menu .header.item {
+    margin: 0em;
+    background: blue;
+}
+
+.ui.huge.header {
+    text-align: center;
+}
+
+.ui.green.button {
+	margin-top: 20px;
+}
+
+div span {
+	color: blue;
+	margin-top: 20px;
+}
